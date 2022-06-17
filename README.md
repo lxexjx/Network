@@ -747,4 +747,4 @@ If-Modified-Since, If-Unmodified-Since: Last-Modified 사용
  1.
 
 
-##서버 앱 웹 
+##client-server 앱 웹 
